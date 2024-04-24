@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=740&t=st=1687341343~exp=1687341943~hmac=7a0d5f6ca7462fcefdb62d7d600c6b6a330e9ca82997ed11602c9039d87961f4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasin550&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin550" /> </p>
 
-- 🌱 I’m currently learning **React.js, Next.js, Redux , TypeScript**
+- 🌱 I’m currently learning **Redux , TypeScript**
 
-- 💬 Ask me about **JavaScript, React.js**
+- 💬 Ask me about **JavaScript, React.js, Next.js**
 
-- 📫 How to reach me **mdyeasinmia550@gmail.com**
+- 📫 How to reach me **mdyeasinmiapro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
